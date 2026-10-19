@@ -1,0 +1,7 @@
+channels: 4
+path: D:/Fire_Project/FireDataset_rgbd
+train: train/images
+val: val/images
+test: test/images
+names:
+  0: victim

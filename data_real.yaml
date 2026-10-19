@@ -1,0 +1,5 @@
+path: D:/Fire_Project/real
+train: finetune_pool/images
+val: real_test2/images
+names:
+  0: victim

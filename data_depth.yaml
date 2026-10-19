@@ -1,0 +1,7 @@
+channels: 1
+path: D:\Fire_Project\FireDataset_new_depth
+train: train/images
+val: val/images
+test: test/images
+names:
+  0: victim
