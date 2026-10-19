@@ -1,0 +1,10 @@
+ultralytics==8.4.90
+numpy>=1.24
+opencv-python>=4.8
+matplotlib>=3.7
+pandas>=2.0
+PyYAML>=6.0
+Pillow>=10.0
+tifffile>=2023.7
+scipy>=1.10
+tqdm>=4.66

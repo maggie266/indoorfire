@@ -21,3 +21,6 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+
+simulation/example_scene/cj1.blend
+simulation/example_scene/cj2.blend
